@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hackaton_big_data" />
+        <module name="hackaton_big_data2" />
       </profile>
     </annotationProcessing>
   </component>
